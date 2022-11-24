@@ -1,5 +1,6 @@
 {
-	"name": "fcc-learn-npm-package-json", "author": "Max Patrick Olivier Morin",
+	"name": "fcc-learn-npm-package-json",
+"author": "Max Patrick Olivier Morin",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
